@@ -1,26 +1,30 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 
 h1 {
-    color: purple;
+    color: grey;
+    font-size: 40px;
+    font-family: 	"viner hand itc";
     text-align: center;
+
 }
 
 .excit {
-    text-align: center;
-    font-family: 	"Courier New";
-    font-size: 20px;
+    text-align: right;
+    font-family: 	"viner hand itc";
+    font-size: 15px;
+    left: 20px;
 }
 .exist {
-    text-align: center;
-    font-family: 	"Courier New";
-    font-size: 20px;
+    text-align: right;
+    font-family: 	"viner hand itc";
+    font-size: 15px;
 }
 .exact {
-    text-align: center;
-    font-family: 	"Courier New";
-    font-size: 20px;
+    text-align: right;
+    font-family: 	"viner hand itc";
+    font-size: 15px;
 }
 p {
     text-align: center;
