@@ -95,3 +95,18 @@ div.decoration{
   left: 200px;
   bottom: 350px;
 }
+.first{
+  color: #404040;
+  position: relative;
+  text-align: center;
+  right: 250px;
+    font-family: 	"viner hand itc";
+    font-size: 30px;
+    bottom:300px;
+}
+.column2{
+  position: relative;
+  text-align: center;
+  right: 250px;
+  bottom: 305px;
+}
