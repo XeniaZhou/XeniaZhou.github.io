@@ -9,7 +9,7 @@ body {
 
     position: relative;
     text-align: center;
-    top: 80px;
+    top: 160px;
     right: 135px;
 
 }
@@ -20,6 +20,7 @@ body {
     position: relative;
     text-align: center;
     left:45px;
+    top:80px;
 
 }
 .zhou{
@@ -28,13 +29,13 @@ body {
   font-family: 	"viner hand itc";
   position: relative;
   text-align: center;
-  bottom: 81px;
+  bottom: 1px;
   left: 190px;
 }
 div.decoration{
   position: relative;
   text-align: center;
-  bottom: 120px;
+  bottom: 40px;
 }
 .excit {
   color: #404040;
@@ -42,7 +43,7 @@ div.decoration{
     text-align: center;
     font-family: 	"viner hand itc";
     font-size: 15px;
-    bottom: 80px;
+
 }
 .exist {
   color: #404040;
@@ -50,12 +51,12 @@ div.decoration{
   text-align: center;
     font-family: 	"viner hand itc";
     font-size: 15px;
-    bottom: 80px;
+
 }
 .photo{
   position: relative;
   text-align: center;
-  bottom: 20px;
+  top: 60px;
 }
 
 
@@ -66,13 +67,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    top:40px;
+    top:120px;
 }
 .column1{
   position: relative;
   text-align: center;
   right: 250px;
-  top: 33px;
+  top: 113px;
 }
 .text1{
   color: #404040;
@@ -81,19 +82,19 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 15px;
-    top: 40px;
+    top: 120px;
 }
 .egret{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 480px;
+  bottom: 400px;
 }
 .pelican{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 330px;
+  bottom: 250px;
 }
 .first{
   color: #404040;
@@ -102,13 +103,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    bottom:280px;
+    bottom:200px;
 }
 .column2{
   position: relative;
   text-align: center;
   right: 250px;
-  bottom: 285px;
+  bottom: 205px;
 }
 div.text2{
   color: #404040;
@@ -117,17 +118,17 @@ div.text2{
   right: 250px;
     font-family: "viner hand itc";
     font-size: 15px;
-    bottom: 275px;
+    bottom: 195px;
 }
 div.parent{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 630px;
+  bottom: 550px;
 }
 div.teacher{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 780px;
+  bottom: 700px;
 }
