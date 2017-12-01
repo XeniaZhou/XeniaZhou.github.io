@@ -110,12 +110,12 @@ div.decoration{
   right: 250px;
   bottom: 305px;
 }
-.text2{
+div.text2{
   color: #404040;
   position: relative;
-  text-align:center;
+  text-align: center;
   right: 250px;
-    font-family: 	"viner hand itc";
+    font-family: "viner hand itc";
     font-size: 15px;
     bottom: 295px;
 }
