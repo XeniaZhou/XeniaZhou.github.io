@@ -35,7 +35,7 @@ body {
 div.decoration{
   position: relative;
   text-align: center;
-  bottom: 40px;
+  bottom: 30px;
 }
 .excit {
   color: #404040;
@@ -43,6 +43,7 @@ div.decoration{
     text-align: center;
     font-family: 	"viner hand itc";
     font-size: 15px;
+    top: 30px;
 
 }
 .exist {
@@ -51,12 +52,13 @@ div.decoration{
   text-align: center;
     font-family: 	"viner hand itc";
     font-size: 15px;
+    top:30px;
 
 }
 .photo{
   position: relative;
   text-align: center;
-  top: 60px;
+  top: 90px;
 }
 
 
@@ -67,13 +69,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    top:120px;
+    top:180px;
 }
 .column1{
   position: relative;
   text-align: center;
   right: 250px;
-  top: 113px;
+  top: 173px;
 }
 .text1{
   color: #404040;
@@ -82,19 +84,19 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 15px;
-    top: 120px;
+    top: 180px;
 }
 .egret{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 400px;
+  bottom: 340px;
 }
 .pelican{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 250px;
+  bottom: 200px;
 }
 .first{
   color: #404040;
@@ -103,13 +105,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    bottom:200px;
+    bottom:140px;
 }
 .column2{
   position: relative;
   text-align: center;
   right: 250px;
-  bottom: 205px;
+  bottom: 145px;
 }
 div.text2{
   color: #404040;
@@ -118,17 +120,17 @@ div.text2{
   right: 250px;
     font-family: "viner hand itc";
     font-size: 15px;
-    bottom: 195px;
+    bottom: 135px;
 }
 div.parent{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 550px;
+  bottom: 490px;
 }
 div.teacher{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 700px;
+  bottom: 640px;
 }
