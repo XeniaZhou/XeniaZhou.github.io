@@ -119,3 +119,15 @@ div.text2{
     font-size: 15px;
     bottom: 295px;
 }
+div.parent{
+  position:relative;
+  text-align: center;
+  left: 380px;
+  bottom: 650px;
+}
+div.teacher{
+  position:relative;
+  text-align: center;
+  left: 200px;
+  bottom: 800px;
+}
