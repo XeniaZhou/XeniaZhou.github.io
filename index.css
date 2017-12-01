@@ -69,13 +69,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    top:180px;
+    top:210px;
 }
 .column1{
   position: relative;
   text-align: center;
   right: 250px;
-  top: 173px;
+  top: 203px;
 }
 .text1{
   color: #404040;
@@ -84,19 +84,19 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 15px;
-    top: 180px;
+    top: 210px;
 }
 .egret{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 340px;
+  bottom: 310px;
 }
 .pelican{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 200px;
+  bottom: 170px;
 }
 .first{
   color: #404040;
@@ -105,13 +105,13 @@ div.decoration{
   right: 250px;
     font-family: 	"viner hand itc";
     font-size: 30px;
-    bottom:140px;
+    bottom:110px;
 }
 .column2{
   position: relative;
   text-align: center;
   right: 250px;
-  bottom: 145px;
+  bottom: 115px;
 }
 div.text2{
   color: #404040;
@@ -120,17 +120,17 @@ div.text2{
   right: 250px;
     font-family: "viner hand itc";
     font-size: 15px;
-    bottom: 135px;
+    bottom: 105px;
 }
 div.parent{
   position:relative;
   text-align: center;
   left: 380px;
-  bottom: 490px;
+  bottom: 460px;
 }
 div.teacher{
   position:relative;
   text-align: center;
   left: 200px;
-  bottom: 640px;
+  bottom: 610px;
 }
