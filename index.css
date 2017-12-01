@@ -134,3 +134,17 @@ div.teacher{
   left: 200px;
   bottom: 610px;
 }
+div.continued{
+  color: #404040;
+  position: relative;
+  text-align: center;
+    font-family: 	"viner hand itc";
+    font-size: 30px;
+    bottom: 380px;
+
+}
+div.end{
+  position: relative;
+  text-align: center;
+  bottom: 375px;
+}
